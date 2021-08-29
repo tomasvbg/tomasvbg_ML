@@ -14,7 +14,7 @@ ii) study notebooks given by the institutions and from other courses I took.
 
 iii) a personal project folder who includes both supervised and unsupervised learning.
 
-iv) thirteen data science and business data driven books I studied since the end of 2020 and during 2021.
+iv) data driven business decisions books and data science books I studied since the end of 2020 and during 2021.
 
 ***
 
