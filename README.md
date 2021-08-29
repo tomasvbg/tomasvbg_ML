@@ -20,6 +20,6 @@ iv) data driven business decisions books and data science books I studied since 
 
 The idea of this repository is:
 
-i) share with recruiters the level of knowledge I have in terms of coding and also in terms of machine learning and business data driven theory.
+i) share with recruiters the level of knowledge I have in terms of code and also in terms of data driven applications for business.
 
-ii) share with anyone interested in learning this field the one year full time learning path I took in order to be able to perform applied business data driven decision.
+ii) share with anyone interested in learning this field the one year full time learning path I took.
