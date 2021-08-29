@@ -8,7 +8,7 @@ I understood that to truly learn the technological tools and mathematical knowle
 
 I currently have the ability to create, train, tune, and deploy supervised, unsupervised, and deep learning models in Jupyter Notebooks and to extract information from databases using SQL. However, I am preparing for the AWS Machine Learning certification so that I can integrate the above in the cloud.
 
-I would love to join a company where I can contribute from the experience as a business analyst acquired throughout my career as a product manager and the technical and analytical tools of the world of data science learned during 2021.
+I would love to join a company where I can contribute from the experience as a product manager acquired during my professional career and the technical and analytical tools of the world of data science learned during 2021.
 
 ***
 
