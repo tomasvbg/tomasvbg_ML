@@ -18,7 +18,7 @@ i) jupyter homework notebooks I have done this 2021 within the framework of the 
 
 ii) study notebooks given by the institutions and from other courses I took.
 
-iii) a personal project folder who includes both supervised and unsupervised learning.
+iii) a personal real state project folder who includes a notebook with: Exploratory Data Analysis, , Preprocessing, Feature Engineer, Supervised Machine learning algorithms,  Unsupervised Machine learnig Alrgorithms, and clustering (project to show code abilities; the models were not fully optimized).
 
 iv) data driven business decisions books and data science books I studied since the end of 2020 and during 2021.
 
